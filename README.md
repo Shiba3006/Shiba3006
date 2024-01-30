@@ -4,9 +4,17 @@
 
 👋 Flutter developer with 3 years of expertise creating sleek, cross-platform mobile apps in Flutter & Dart. Passionate about open source.
 
-Skills: FLUTTER / DART / ANDROID / OOP / CLEAN Architecture / SOLID / AGILE
+Skills: 
+  * FLUTTER
+  * DART
+  * ANDROID
+  * OOP 
+  * CLEAN Architecture
+  * SOLID
+  * AGILE
 
-- 🔭 I’m currently working on this page. 
+
+ 🔭 I’m currently working on this page. 
 
 
 
